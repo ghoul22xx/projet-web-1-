@@ -1,0 +1,9 @@
+.montrealButton {
+    text-align: center;
+    margin: 0 auto;
+    transition: filter 300ms;
+    border: 1px solid white;
+    width: fit-content;
+    padding: 1rem;
+    border-width: 8px;
+}
